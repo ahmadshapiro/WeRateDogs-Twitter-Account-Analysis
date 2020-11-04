@@ -10,7 +10,7 @@ We started this by observing the difference between mean of rates of dogs having
 
 Our hypothesis is as follow :-  
 
-![](act\_report.001.png)
+![](readme_files\act\_report.001.png)
 
 ![](act\_report.002.png)
 
